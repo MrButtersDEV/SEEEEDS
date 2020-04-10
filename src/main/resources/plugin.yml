@@ -1,0 +1,6 @@
+name: SEEEEDS
+version: ${project.version}
+main: us.thezircon.play.seeeeds.SEEEEDS
+authors: [BUTTERFIELD8]
+api-version: 1.15
+description: Prevents you from breaking crops that are not fully grown.
