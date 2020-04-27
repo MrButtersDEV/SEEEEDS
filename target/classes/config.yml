@@ -1,2 +1,19 @@
+#Should the plugin stop players from breaking seeds?
 enablePrevention: true
+
+#This is the message sent to the player when they try to break a seed that's not fully grown.
 msgBreakCrop: "&3Shift click to break a baby seed!"
+
+#Should prevention require a permission?
+#seeeeds.prevent
+requirePermPrevent: false
+
+#Should melon-mode require a permission
+#seeeeds.melonmode
+requirePermMelonMode: false
+
+#The message sent when a player toggles melon mode
+msgMelonMode:
+  msgEnable: "&7You have &benabled &7Melon-Mode"
+  msgDisable: "&7You have &bdiabled &7Melon-Mode"
+  msgNoPerm: "&cYou don't have permission to toggle melon mode."

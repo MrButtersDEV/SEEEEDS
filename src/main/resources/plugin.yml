@@ -4,3 +4,6 @@ main: us.thezircon.play.seeeeds.SEEEEDS
 authors: [BUTTERFIELD8]
 api-version: 1.15
 description: Prevents you from breaking crops that are not fully grown.
+commands:
+  melonmode:
+    description: Toggles melon mode and prevents you from breaking stems when your mining melon!
