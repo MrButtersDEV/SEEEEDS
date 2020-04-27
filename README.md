@@ -1,7 +1,14 @@
 # SEEEEDS
  Stop your players from breaking plants that are not ready to be harvested.
+[Showcase Video](http://www.youtube.com/watch?v=utuRjTMZ8tE)
 
-## Build instructions:
+# Commands & Permissions:
+- /melonmode -- seeeeds.melonmode
+- Break baby seeds -- seeeeds.prevent
+
++ All permissions are togglable 
+
+## Build instructions: (By: [Tait Hoyem](github.com/TTWNO))
 
 ### Linux
 
