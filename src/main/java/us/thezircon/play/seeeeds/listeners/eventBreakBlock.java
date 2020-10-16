@@ -30,7 +30,7 @@ public class eventBreakBlock implements Listener {
 
         // Prevention (Stops Players from breaking baby seeds)
         if (!requirePermPrevent || player.hasPermission("seeeeds.prevent")) {
-            List<Material> disabled = Arrays.asList(Material.CACTUS, Material.SUGAR_CANE, Material.BAMBOO);
+            List<Material> disabled = Arrays.asList(Material.CACTUS, Material.SUGAR_CANE, Material.BAMBOO, Material.FIRE);
 
             if (disabled.contains(block.getType())) {
                 return;
